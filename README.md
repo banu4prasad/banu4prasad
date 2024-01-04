@@ -1,4 +1,11 @@
-### Hi there 👋
+# Heyy! I'm Banuprasad
+
+-
+
+
+### Top Languages 🌍
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banu4prasad&layout=compact&theme=light)
 
 <!--
 **banu4prasad/banu4prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
