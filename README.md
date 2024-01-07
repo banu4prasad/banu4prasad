@@ -3,7 +3,7 @@
 -
 
 
-### Top Languages 🌍
+### Programming Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banu4prasad&layout=compact&theme=light)
 
