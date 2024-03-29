@@ -1,4 +1,4 @@
-<h3 align="center">Hello, I am Banuprasad - a Sophomore UG student.</h3>
+<h3 align="center">Hello, I am Banuprasad - A Sophomore UG student.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=banu4prasad&label=Profile%20views&color=0e75b6&style=flat" alt="Banuprasad B" /> </p>
 
 <h3 align="left">♻️  About Me</h3>
