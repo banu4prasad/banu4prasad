@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=banu4prasad&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Banuprasad B" /> </p>
 
 <h3 align="left">🍺 About Me</h3>
-💡  ..<br>
+💡  <br>
 🎓  Currently, I'm pursuing my undergraduate degree.<br>
 
 <br><br>
@@ -13,8 +13,11 @@
 
 ### ♻️&nbsp;Tech Stack
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![C](https://img.shields.io/badge/--05122A?style=flat&logo=C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+
 
 <br><br>
 ### ⚙️ &nbsp;GitHub Analytics
