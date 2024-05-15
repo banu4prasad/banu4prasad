@@ -1,5 +1,8 @@
 <h3 align="center">Hello, I am Banuprasad</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=banu4prasad&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Banuprasad B" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20views-69-0077b6" alt="Profile views" />
+</p>
+
 
 <h3 align="left">🍺 About Me</h3>
 💡  <br>
