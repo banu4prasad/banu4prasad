@@ -4,9 +4,8 @@
 </p>
 
 
-<h3 align="left">🍺 About Me</h3>
-💡  <br>
-🎓  Currently, I'm pursuing my undergraduate degree.<br>
+<h3 align="left">About Me</h3>
+
 
 <br><br>
 
