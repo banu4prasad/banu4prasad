@@ -19,9 +19,23 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)&nbsp;
+![YOLO](https://img.shields.io/badge/-YOLO-05122A?style=flat&logo=yolo)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![BLIP](https://img.shields.io/badge/-BLIP-05122A?style=flat&logo=salesforce)&nbsp;
+<!-- ![Kaggle](https://img.shields.io/badge/-Kaggle-05122A?style=flat&logo=kaggle)&nbsp; 
+![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
+![Datasets](https://img.shields.io/badge/-Datasets-05122A?style=flat&logo=databricks)&nbsp; -->
+![YAML](https://img.shields.io/badge/-YAML-05122A?style=flat&logo=yaml)&nbsp;
+![Terminal](https://img.shields.io/badge/-Terminal-05122A?style=flat&logo=gnometerminal)&nbsp;
+
+
+
+
+
 
 
 
