@@ -13,7 +13,7 @@
 <br>
 
 
-### ♻️&nbsp;Tech Stack
+### ♻️&nbsp; Tech Stack
 
 ![C](https://img.shields.io/badge/--05122A?style=flat&logo=C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -46,7 +46,7 @@
 
 
 <br><br>
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp; GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/banu4prasad">
