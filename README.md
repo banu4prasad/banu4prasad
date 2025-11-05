@@ -29,8 +29,10 @@
 <!-- ![Kaggle](https://img.shields.io/badge/-Kaggle-05122A?style=flat&logo=kaggle)&nbsp; 
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
 ![Datasets](https://img.shields.io/badge/-Datasets-05122A?style=flat&logo=databricks)&nbsp; -->
+![MD](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![YAML](https://img.shields.io/badge/-YAML-05122A?style=flat&logo=yaml)&nbsp;
 ![Terminal](https://img.shields.io/badge/-Terminal-05122A?style=flat&logo=gnometerminal)&nbsp;
+
 
 
 
