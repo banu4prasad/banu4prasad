@@ -50,7 +50,7 @@
 
 <p align="left">
 <a href="https://github.com/banu4prasad">
-  <img height="180em" align="left" src="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=banu4prasad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="left" src="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=banu4prasad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&all_time_contribs=true"/>
   <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=banu4prasad&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
