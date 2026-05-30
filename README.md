@@ -1,17 +1,15 @@
-<h3 align="center">Hello, I am Banuprasad</h3>
+<!-- <h3 align="center">I am Banuprasad</h3> -->
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20views-69-0077b6" alt="Profile views" />
 </p>
 
 
-<h3 align="left">About Me</h3>
+<!-- <h3 align="left">About Me</h3> -->
 
 
-<br><br>
+ <!-- <br><br> -->
 
 <!-- <img src="https://media.giphy.com/media/zkNBtlymM6zX4DndrU/giphy.gif" width="330px" align="right"> -->
-<br>
-
 
 ### ♻️&nbsp; Tech Stack
 
